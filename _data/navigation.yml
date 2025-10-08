@@ -9,9 +9,6 @@ main:
   - title: "Tech Plogs"
     url: /tech/
 
-  - title: "Experiment Platform"
-    url: /expt/
-
-  - title: "GPT Assistance"
-    url: /GPT/
+  - title: "Resources"
+    url: /resource/
 

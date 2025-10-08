@@ -18,14 +18,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben LIU](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/). I received my bachelor's degree in Industrial Engineering from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) as one of the TOP 10 outstanding undergraduate students in June 2023.
+🦸‍♂️I am a year-3 PhD candidate in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben LIU](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/). I received my bachelor's degree in Industrial Engineering from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) as one of the TOP 10 outstanding undergraduate students in June 2023.
 
-My research focuses on Chinese patient (especially elderly) **well-being** in technology-powered **healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. I am also interested in AI regulation in organization.
-I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioral decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
+My research interests span two primary streams: (1) investigating IT professionals, corporations, and consumers within open source collaborative ecosystems, and (2) advancing social justice, particularly in healthcare operations management and services for vulnerable populations.
 
-<div class='paper-box-image'>
-<img src='images/research roadmap.jpg' alt="sym" width="100%">
-</div>
+Dylan employs methodologies including econometrics and machine learning techniques with a strong emphasis on credible causal inference. For theoretical development, he applies analytical modeling and qualitative research methods.
+
+Beyond academics, Dylan enjoys 🏸Badminton, 🥾Hiking & Mountaineering, 🍳Cooking, 🎶Music, 🍸Cocktail mixing, and ✍️Writing.
 
 # 🔥 News
 
@@ -78,7 +77,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
 # 💼 Experiences
 
-[**2022.07 - 2023.08(now)**] Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm).
+[**2022.07 - 2023.08**] Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm).
 
 - Scientific training:
   - Fund Application/Completion Report Writing *3
@@ -115,7 +114,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
 
 # 🌄 Mottos
-
+- Do research we like so that we won't regret.
 - Free to do as I please despite the noise, be my own man not in the world's way.
 - Remain true, keep your bottom line, be yourself.
 
@@ -123,6 +122,5 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
 - Friends(Ordered by Alphabets)
   - waiting for ...
-- Hobbies: 🏸Badminton; 🎶Music; 👟Long-distance running; 🎮️MINECRAFT
 
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=yfhcEFYghS271TtCJcmJ0SjspX_z-s3xU5qVH31QqJk&cl=ffffff&w=a">
