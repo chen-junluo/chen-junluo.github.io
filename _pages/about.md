@@ -32,10 +32,6 @@ Beyond academics, Dylan enjoys 🏸Badminton, 🥾Hiking & Mountaineering, 🍳C
 
 *2024.09*: &nbsp;One ICIS 2024 Paper accepted. One HICSS 2024 Paper accepted.
 
-*2024.03*: &nbsp;One paper submitted to PACIS 2024. I've been cultivating my Github account since 2024!
-
-*2024.02*: &nbsp;One paper submitted to AOM 2024.
-
 *2023.09*: &nbsp;🎉🎉 Start my journey in Hong Kong pursuing my PhD degree! Impressive first month! Feel extremely lucky and satisfied!
 
 *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognized by the principal by name at the [graduation ceremony](images/graduation ceremony.jpg).
