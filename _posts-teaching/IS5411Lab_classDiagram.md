@@ -1,7 +1,14 @@
 ---
-title: "IS5411 Class Diagram Clarification"
-layout: default
-permalink: /teaching/is5411/class-diagram/
+collection: posts-teaching
+layout: posts-blog
+author_profile: false
+date: 2025-10-31
+title: 'IS5411 Lab Plog 1: Clarification on Class Diagram Exercise'
+excerpt: "Clarification on class diagram design for the Patient Record and Scheduling System assignment."
+permalink: /teaching/is5411/classDiagram/
+tags:
+  - teaching
+  - IS5411
 ---
 
 # IS5411 Class Diagram Clarification

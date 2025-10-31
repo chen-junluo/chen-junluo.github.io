@@ -108,6 +108,9 @@ collections:
   posts-tech:
     output: true
     permalink: /:collection/:path/
+  posts-teaching:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Conversion
@@ -150,6 +153,12 @@ defaults:
   - scope:
       path: ""
       type: posts-tech
+    values:
+      show_date: true
+  # _teaching-posts
+  - scope:
+      path: ""
+      type: posts-teaching
     values:
       show_date: true
 
