@@ -65,17 +65,32 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 </div>
 </div>
 
-
 - Book chapters
   - Structural Equation Model (Applied Statistic Analysis)
-- Service
-  - Reviewer for Information Technology & People; ICIS2023; PACIS2024; ECIS2023/2024; AOM2023/2024
-  - Co-founder of Cyber-FAFA institution(233
 - Public research funds
   - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Healthcare in the New Era - Digitised Elderly Service Guangzhou Model (Project No: 2023GZYB22), 50,000, Participation
   - (2023-2024)Open Project of Shanghai Key Laboratory of Brain-Machine Synergy --- Research on Cognitive Network Model of Creativity for Human-AGI Synergy: Behavioural Metrics and Motivational Mining (Project No. 2023KFKT003), 30,000, Participation
 - Commercial research funds
   - (2023-2023)SANY Operation Research Optimisation Algorithm System School-Enterprise Cooperation Construction Project, Sany Heavy Machinery Co., Participation
+
+# 🏫 Educations
+
+- **2023.09 - 2027.06(hopefully)**, PhD student, Department of Information Systems, College of Business, City University of Hong Kong.
+- **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
+
+# 🏅 Honors and Awards
+
+- Undergraduate period@SCUT
+  - [**2023.06**] Excellent graduation thesis award *(**top8/378**, instructed by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm))*
+  - [**2023.04**] TOP 10 undergraduate students *([**highest** comprehensive honor for undergraduate students](https://www2.scut.edu.cn/student/2023/0322/c8965a494881/page.htm))*
+  - [**2022.09**] GAC Scholarship *(**1/378**, the highest scholarship for undergraduate students, 20,000 yuan)*
+  - [**2021.09**] Suzhou Yucai Scholarship *(**1/91**, only 10 undergraduates in the university won, 10,000 yuan)*
+  - [**2020.09**] China National Scholarship *(**1/91**, 8,000 yuan)*
+  - Total amount of honors and awards in various competitions/selections: <br>7+ at the national level, 12+ at the provincial level, and 36+ at the university level.
+
+# 🤝 Service
+- Reviewer for Information Technology & People; ICIS2023; PACIS2024; ECIS2023/2024; AOM2023/2024
+- Members by courtesy of [**F.IT Lab**](https://www.polyu.edu.hk/mm/docdrive/files/xinli/index.html)
 
 # 💼 Experiences
 
@@ -100,24 +115,9 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
   4. [3] Killing the Goose: Short- and long-term effects of involution on individual creativity, CSSCI-index journal 1st round revision (Main author)
   5. [3] Exploring the concept of involutional anxiety among Chinese college students: A student transition perspective, SSCI-Q1 index journal accepted (First and corresponding author)
 
-# 🏅 Honors and Awards
-
-- Undergraduate period@SCUT
-  - [**2023.06**] Excellent graduation thesis award *(**top8/378**, instructed by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm))*
-  - [**2023.04**] TOP 10 undergraduate students *([**highest** comprehensive honor for undergraduate students](https://www2.scut.edu.cn/student/2023/0322/c8965a494881/page.htm))*
-  - [**2022.09**] GAC Scholarship *(**1/378**, the highest scholarship for undergraduate students, 20,000 yuan)*
-  - [**2021.09**] Suzhou Yucai Scholarship *(**1/91**, only 10 undergraduates in the university won, 10,000 yuan)*
-  - [**2020.09**] China National Scholarship *(**1/91**, 8,000 yuan)*
-  - Total amount of honors and awards in various competitions/selections: <br>7+ at the national level, 12+ at the provincial level, and 36+ at the university level.
-
-# 🏫 Educations
-
-- **2023.09 - 2027.06(hopefully)**, PhD student, Department of Information Systems, College of Business, City University of Hong Kong.
-- **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
-
 # 💬 Miscellaneous
 
 - Friends(Ordered by Alphabets)
-  - waiting for ...
+  - Many of my friends do not use the Internet (
 
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=yfhcEFYghS271TtCJcmJ0SjspX_z-s3xU5qVH31QqJk&cl=ffffff&w=a">
