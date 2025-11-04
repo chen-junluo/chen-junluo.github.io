@@ -16,9 +16,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+> I've always believed that the strength of being a social science researcher lies in two things:
+> - 1) being able to abandon our initial "intuitions", delve deep into logical analysis, and trace where those gut feelings actually come from;
+> - 2) serving the broader population rather than just elites, paying special attention to the most vulnerable groups, with a commitment to equity and striving to create meaningful change.
+> 
+> Do this kind of research, so that I won't regret.
+
 <span class='anchor' id='about-me'></span>
 
-🦸‍♂️I am a year-3 PhD candidate in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben LIU](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/). I received my bachelor's degree in Industrial Engineering from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) as one of the TOP 10 outstanding undergraduate students in June 2023.
+🦸‍♂️I am a year-3 PhD candidate in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben LIU](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. Xin LI](https://www.polyu.edu.hk/mm/people/academic-staff/prof-xin-li/). I received my bachelor's degree in Industrial Engineering from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) as one of the TOP 10 outstanding undergraduate students in June 2023.
 
 My research interests span two primary streams: (1) investigating IT professionals, corporations, and consumers within open source collaborative ecosystems, and (2) advancing social justice, particularly in healthcare operations management and services for vulnerable populations.
 
@@ -108,11 +114,6 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
 - **2023.09 - 2027.06(hopefully)**, PhD student, Department of Information Systems, College of Business, City University of Hong Kong.
 - **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
-
-# 🌄 Mottos
-- Do research we like so that we won't regret.
-- Free to do as I please despite the noise, be my own man not in the world's way.
-- Remain true, keep your bottom line, be yourself.
 
 # 💬 Miscellaneous
 

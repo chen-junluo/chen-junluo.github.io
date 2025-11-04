@@ -30,6 +30,7 @@ This page contains a collection of useful resources that I found for Econ-IS Stu
 
 - Others
     - **[https://mailchi.mp/eeassoc.org/ejme-202526-important-information?e=7b772df108](https://mailchi.mp/eeassoc.org/ejme-202526-important-information?e=7b772df108)**: European Econ job market
+    - **[https://paulgp.com/econlit-pipeline/search.html](https://paulgp.com/econlit-pipeline/search.html)**: Search full text across 15,000+ papers from top economics journals, see the topic or methodology trend.
 
 
 ## Role models

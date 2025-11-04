@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+blockquote {
+  font-size: $type-size-6h;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
