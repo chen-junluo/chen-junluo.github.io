@@ -58,7 +58,7 @@ A concise guide to the essential tools/techniques used in system design and anal
   - [`Activity Diagram`]({{ site.url }}/images/teaching/IS5411/example_activityDiagram.png): Visual workflow showing detailed *actor* processes, decision points, and loops.
   - [`Analysis SSD`]({{ site.url }}/images/teaching/IS5411/example_analysisSSD.png): Documents *user-system* information exchange. Focuses on inputs and outputs (information cross the boundary between *user* and system).
 
-- Step 3. design a specific use case! (Lab 10)
+- Step 3. use case realization: design a specific use case! (Lab 10)
   - **1. Input and output & data retrieval logic:**
     - [`Analysis SSD`]({{ site.url }}/images/teaching/IS5411/example_analysisSSD.png): Organizes inputs/outputs
     - [`First-cut Design Class Diagram`]({{ site.url }}/images/teaching/IS5411/example_first-cutDesignClassDiagram.png)`: Initial design classes showing data retrieval structure
