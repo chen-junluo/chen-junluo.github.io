@@ -2,9 +2,9 @@
 collection: posts-teaching
 layout: posts-blog
 author_profile: false
-date: 2025-11-07
+date: 2025-10-30
 title: 'IS5411 Lab Plog 1: Overview of Design Techniques'
-excerpt: "This plog provides an overview of design techniques used in the IS5411 class diagram design for the Patient Record and Scheduling System assignment."
+excerpt: "This plog provides an overview of design techniques/diagrams used in the IS5411 system design and analysis."
 permalink: /teaching/is5411/techniquesSummarization/
 tags:
   - teaching
