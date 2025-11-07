@@ -3,7 +3,7 @@ collection: posts-teaching
 layout: posts-blog
 author_profile: false
 date: 2025-10-31
-title: 'IS5411 Lab Plog 1: Clarification on Class Diagram Exercise'
+title: 'IS5411 Lab Plog 2: Clarification on Class Diagram Exercise'
 excerpt: "Clarification on class diagram design for the Patient Record and Scheduling System assignment."
 permalink: /teaching/is5411/classDiagram/
 tags:
