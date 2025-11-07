@@ -13,6 +13,10 @@ tags:
 ---
 
 # How to Draw Design SSD: Understanding Object-Oriented Programming & A Step-Based Guide
+This is a little bit complicated, hope this would help you better understand and finish the Design SSD (in a few days, an addtional illustration would be updated).
+
+---
+## Understanding Object-Oriented Programming
 
 - Key concepts on object-oriented programming (OOP).
 
@@ -66,8 +70,8 @@ tags:
     - Handles data retrieval and storage
     - Accessed only through the librarian (DA)
     - Example: The filing room or archive
-
-## Design SSD: Step-Based Guidance
+---
+# Design SSD: Step-Based Guidance
 
 - Step 1: CEO tells manager
   - The CEO (user) communicates their need to the manager (controller) through the interface
