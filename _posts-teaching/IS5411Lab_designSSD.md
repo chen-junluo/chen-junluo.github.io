@@ -73,7 +73,7 @@ This is a little bit complicated, hope this would help you better understand and
 
 ---
 
-# Design SSD: Step-Based Guidance
+## Design SSD: Step-Based Guidance
 
 - Step 1: CEO tells manager
   - The CEO (user) communicates their need to the manager (controller) through the interface
