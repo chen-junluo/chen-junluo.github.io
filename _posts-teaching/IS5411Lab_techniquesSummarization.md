@@ -13,7 +13,7 @@ tags:
 
 # IS5411 System Design: Core Tools Summary
 
-A concise guide to the essential tools/techniques used in system design and analysis.
+A concise guide to the essential tools/techniques used in system design and analysis. This would be kept till you guys finish the final examination, best wishes!^^
 
 ---
 
