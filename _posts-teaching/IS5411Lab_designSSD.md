@@ -70,7 +70,9 @@ This is a little bit complicated, hope this would help you better understand and
     - Handles data retrieval and storage
     - Accessed only through the librarian (DA)
     - Example: The filing room or archive
+
 ---
+
 # Design SSD: Step-Based Guidance
 
 - Step 1: CEO tells manager
