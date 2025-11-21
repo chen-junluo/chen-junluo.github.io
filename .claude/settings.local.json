@@ -24,7 +24,9 @@
       "Bash(kill:*)",
       "Bash(lsof:*)",
       "Bash(bundle lock:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(./build-for-release.sh:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
