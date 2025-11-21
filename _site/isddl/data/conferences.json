@@ -1,0 +1,286 @@
+{
+  "conferences": [
+    {
+      "id": "icis2026",
+      "name": "ICIS 2026",
+      "fullName": "International Conference on Information Systems",
+      "date": "December 13-16, 2026",
+      "location": "Lisbon, Portugal",
+      "deadline": "2026-05-01T23:59:59-05:00",
+      "website": "https://icis2026.aisconferences.org/",
+      "type": "tier 1",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on ICIS 2025 timeline. Dates may be adjusted.",
+      "timeline": [
+        {
+          "id": "submission-open",
+          "name": "Submission Open",
+          "date": "2026-03-12T00:00:00-05:00"
+        },
+        {
+          "id": "submission-deadline",
+          "name": "Submission Deadline",
+          "date": "2026-05-01T23:59:59-05:00"
+        },
+        {
+          "id": "notification",
+          "name": "Acceptance Notification",
+          "date": "2026-07-29T23:59:59-05:00"
+        },
+        {
+          "id": "final-paper",
+          "name": "Final Paper Deadline",
+          "date": "2026-09-03T23:59:59-05:00"
+        },
+        {
+          "id": "final-notification",
+          "name": "Final Acceptance Notification",
+          "date": "2026-09-30T23:59:59-05:00"
+        }
+      ]
+    },
+    {
+      "id": "pacis2026",
+      "name": "PACIS 2026",
+      "fullName": "Pacific Asia Conference on Information Systems",
+      "date": "July 4-8, 2026",
+      "location": "Jakarta, Indonesia",
+      "deadline": "2026-03-01T23:59:59Z",
+      "website": "https://pacis2026.aisconferences.org/",
+      "type": "tier 2",
+      "field": "Information Systems",
+      "note": "Theme: Leapfrogging the Future with Artificial Intelligence",
+      "timeline": [
+        {
+          "id": "submission-open",
+          "name": "Submission Systems Open",
+          "date": "2025-12-01T00:00:00Z"
+        },
+        {
+          "id": "submission-deadline",
+          "name": "Submission Deadline",
+          "date": "2026-03-01T23:59:59Z"
+        },
+        {
+          "id": "notification",
+          "name": "Acceptance Notification",
+          "date": "2026-05-01T23:59:59Z"
+        },
+        {
+          "id": "final-paper",
+          "name": "Camera Ready Submission & Registration",
+          "date": "2026-06-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "id": "hicss2027",
+      "name": "HICSS 2027",
+      "fullName": "Hawaii International Conference on System Sciences",
+      "date": "January 4-7, 2027",
+      "location": "Hawaii, USA",
+      "deadline": "2026-06-15T23:59:59-10:00",
+      "website": "https://hicss.hawaii.edu/",
+      "type": "tier 2",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on HICSS 2026 timeline. Dates and the logo may be adjusted.",
+      "timeline": [
+        {
+          "id": "submission-deadline",
+          "name": "Paper Submission Deadline",
+          "date": "2026-06-15T23:59:59-10:00"
+        },
+        {
+          "id": "notification",
+          "name": "Notification of Acceptance/Rejection",
+          "date": "2026-08-17T23:59:59-10:00"
+        },
+        {
+          "id": "final-paper",
+          "name": "Final Manuscript Submission",
+          "date": "2026-09-22T23:59:59-10:00"
+        },
+        {
+          "id": "registration-deadline",
+          "name": "Author Registration Deadline",
+          "date": "2026-10-01T23:59:59-10:00"
+        },
+        {
+          "id": "doctoral-consortium-and-junior-faculty-deadline",
+          "name": "Doctoral Consortium & Junior Faculty Consortium Application Deadline",
+          "date": "2026-08-31T23:59:59-10:00"
+        }
+      ]
+    },
+    {
+      "id": "amcis2026",
+      "name": "AMCIS 2026",
+      "fullName": "Americas Conference on Information Systems",
+      "date": "August 9-12, 2026",
+      "location": "Reno, Nevada, USA",
+      "deadline": "2026-02-28T17:00:00-05:00",
+      "website": "https://amcis2026.aisconferences.org/",
+      "type": "tier 2",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on AMCIS 2025 timeline. Dates may be adjusted.",
+      "timeline": [
+        {
+          "id": "submission-open",
+          "name": "Manuscript Submissions Begin",
+          "date": "2026-01-13T00:00:00-05:00"
+        },
+        {
+          "id": "submission-deadline",
+          "name": "Submission Deadline",
+          "date": "2026-02-28T17:00:00-05:00"
+        },
+        {
+          "id": "workshop-deadline",
+          "name": "TREO, PDS, Workshop, and Panel Submissions Deadline",
+          "date": "2026-05-09T17:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "wits2026",
+      "name": "WITS 2026",
+      "fullName": "The 36th Workshop on Information Technologies and Systems",
+      "date": "December 16-18, 2026",
+      "location": "Unknown",
+      "deadline": "2026-08-17T23:59:59-07:00",
+      "website": "https://witsconf.org/",
+      "type": "tier 2",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on WITS 2025 timeline. Dates and location may be adjusted. WITS is typically held just after ICIS.",
+      "timeline": [
+        {
+          "id": "submission-deadline-paper",
+          "name": "Completed Research and Research-in-Progress Papers Deadline",
+          "date": "2026-08-17T23:59:59-07:00"
+        },
+        {
+          "id": "submission-deadline-dissertation",
+          "name": "Dissertation Proposal and Demo/Prototype Deadline",
+          "date": "2026-09-01T23:59:59-07:00"
+        },
+        {
+          "id": "notification-paper",
+          "name": "Acceptance Notification (Papers)",
+          "date": "2026-10-07T23:59:59-07:00"
+        },
+        {
+          "id": "notification-dissertation",
+          "name": "Acceptance Notification (Dissertation & Demo)",
+          "date": "2026-10-07T23:59:59-07:00"
+        },
+        {
+          "id": "camera-ready",
+          "name": "Camera-ready Copy Deadline",
+          "date": "2026-10-21T23:59:59-07:00"
+        }
+      ]
+    },
+    {
+      "id": "wise2026",
+      "name": "WISE 2026",
+      "fullName": "The 37th Workshop on Information Systems and Economics",
+      "date": "December 16-18, 2026",
+      "location": "Unknown",
+      "deadline": "2026-08-23T23:59:59-07:00",
+      "website": "https://sites.google.com/view/wise2026/",
+      "type": "tier 2",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on WISE 2025 timeline. Dates and location may be adjusted.",
+      "timeline": [
+        {
+          "id": "submission-open",
+          "name": "Submission Portal Opens",
+          "date": "2026-06-01T00:00:00-07:00"
+        },
+        {
+          "id": "submission-deadline",
+          "name": "Submission Deadline (Extended)",
+          "date": "2026-08-23T23:59:59-07:00"
+        },
+        {
+          "id": "notification",
+          "name": "Decision Notification",
+          "date": "2026-09-29T23:59:59-07:00"
+        }
+      ]
+    },
+    {
+      "id": "cist2026",
+      "name": "CIST 2026",
+      "fullName": "INFORMS Conference on Information Systems and Technology",
+      "date": "October 24-25, 2026",
+      "location": "Unknown",
+      "deadline": "2026-06-18T23:59:59-07:00",
+      "website": "https://sites.google.com/view/cist2026/",
+      "type": "tier 2",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on CIST 2025 timeline. Dates and location may be adjusted.",
+      "timeline": [
+        {
+          "id": "submission-open",
+          "name": "Submission System Opens",
+          "date": "2026-05-15T00:00:00-07:00"
+        },
+        {
+          "id": "submission-deadline",
+          "name": "Extended Submission Deadline",
+          "date": "2026-06-18T23:59:59-07:00"
+        },
+        {
+          "id": "notification",
+          "name": "Notification of Acceptance",
+          "date": "2026-08-18T23:59:59-07:00"
+        },
+        {
+          "id": "early-registration",
+          "name": "Early Registration Deadline",
+          "date": "2026-09-12T23:59:59-07:00"
+        },
+        {
+          "id": "speaker-registration",
+          "name": "Speaker Registration Deadline",
+          "date": "2026-09-12T23:59:59-07:00"
+        }
+      ]
+    },
+    {
+      "id": "cswim2026",
+      "name": "CSWIM 2026",
+      "fullName": "The 19th China Summer Workshop on Information Management",
+      "date": "June 27-28, 2026",
+      "location": "Unknown",
+      "deadline": "2026-03-15T23:59:59+08:00",
+      "website": "https://2026.cswimworkshop.org/",
+      "type": "tier 3",
+      "field": "Information Systems",
+      "note": "Deadline information is predicted based on CSWIM 2025 timeline. Dates may be adjusted.",
+      "timeline": [
+        {
+          "id": "submission-open",
+          "name": "Easychair System Open for Submission",
+          "date": "2026-02-01T00:00:00+08:00"
+        },
+        {
+          "id": "submission-deadline",
+          "name": "Submission Deadline",
+          "date": "2026-03-15T23:59:59+08:00"
+        },
+        {
+          "id": "notification",
+          "name": "Acceptance Notification",
+          "date": "2026-04-30T23:59:59+08:00"
+        },
+        {
+          "id": "final-paper",
+          "name": "Final Submission Deadline",
+          "date": "2026-05-10T23:59:59+08:00"
+        }
+      ]
+    }
+  ]
+}
