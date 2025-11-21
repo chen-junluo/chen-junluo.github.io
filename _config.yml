@@ -93,9 +93,13 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - isddl
+  - ISDDL-README.md
+  - QUICK-START.md
 keep_files:
   - .git
   - .svn
+  - isddl
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 

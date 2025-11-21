@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(node scripts/prepare-data.js:*)",
+      "Bash(cat:*)",
+      "Bash(bundle exec jekyll build:*)",
+      "Bash(./test-integration.sh)",
+      "Bash(./build-local.sh:*)",
+      "Bash(curl:*)",
+      "Bash(test:*)",
+      "Bash(git submodule:*)",
+      "Bash(ln:*)",
+      "Bash(npm run build:*)",
+      "Bash(readlink:*)",
+      "Bash(file:*)",
+      "Bash(NODE_ENV=development npm run build:*)",
+      "Bash(python3:*)",
+      "Bash(tree:*)",
+      "Bash(du:*)",
+      "Bash(pkill:*)",
+      "Bash(git check-ignore:*)",
+      "Bash(git add:*)",
+      "Bash(kill:*)",
+      "Bash(lsof:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
