@@ -33,7 +33,7 @@ My research interests span two primary streams: (1) investigating IT professiona
 
 Dylan employs methodologies including econometrics and machine learning techniques with a strong emphasis on credible causal inference. For theoretical development, he applies analytical modeling and qualitative research methods.
 
-Beyond academics, Dylan enjoys 💻 Software Development, 🧗 Rock Climbing, 🏸Badminton, 🥾Hiking & Mountaineering, 🍳Cooking, 🎶Music, 🍸Cocktail mixing, and ✍️Writing.
+Beyond academics, Dylan enjoys 💻Software Development, 🧗Rock Climbing, 🏸Badminton, 🥾Hiking & Mountaineering, 🍳Cooking, 🎶Music, 🍸Cocktail mixing, and ✍️Writing.
 
 # 🔥 News
 *2026.09*: &nbsp;One ICIS 2026 Paper accepted.
@@ -44,7 +44,7 @@ Beyond academics, Dylan enjoys 💻 Software Development, 🧗 Rock Climbing, �
 
 *2026.02*: &nbsp;🎉🎉 The College of Business PhD Student *Research Excellence Awards* & The College of Business PhD Student *Teaching Excellence Awards*
 
-*2025.12*: &nbsp;I finished my PhD oral defense.
+*2025.12*: &nbsp;I finished my PhD thesis oral defense.
 
 *2025.08*: &nbsp;2024-2025 Research Tuition Scholarship & Outstanding Academic Performance Award
 
@@ -66,6 +66,19 @@ Beyond academics, Dylan enjoys 💻 Software Development, 🧗 Rock Climbing, �
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
+
+**Design management for robot anthropomorphism: reality and future, Tsinghua Business Review**
+
+Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
+
+[**Paper**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UNCIBZVVy9JOupisQoOqAEYJMIy4BvRXJcrd231f44OR&uniplatform=NZKPT)
+
+- My first publication, making full use of McClelland's iceberg model to sort out the Human-Robot interaction literature related to anthropomorphism.
+- The "ice heart" can only be thawed by paying more attention to the "under iceberg" characteristics and motivations of robots.
+
+</div>
+</div>
+
 
 - Book chapters
   - Structural Equation Model (Applied Statistic Analysis)
