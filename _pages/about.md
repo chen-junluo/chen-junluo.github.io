@@ -40,15 +40,15 @@ Beyond academics, Dylan enjoys 💻Software Development, 🧗Rock Climbing, 🏸
 
 *2026.08*: &nbsp;2025-2026 Research Tuition Scholarship & Outstanding Academic Performance Award
 
-*2026.04*: &nbsp;🎉🎉 One *Information & Management* Paper accepted.
+*2026.04*: &nbsp;🎉🎉 One **Information & Management** Paper accepted.
 
-*2026.02*: &nbsp;🎉🎉 The College of Business PhD Student *Research Excellence Awards* & The College of Business PhD Student *Teaching Excellence Awards*
+*2026.02*: &nbsp;🎉🎉 The College of Business PhD Student **Research Excellence Awards** & The College of Business PhD Student **Teaching Excellence Awards**
 
 *2025.12*: &nbsp;I finished my PhD thesis oral defense.
 
 *2025.08*: &nbsp;2024-2025 Research Tuition Scholarship & Outstanding Academic Performance Award
 
-*2024.12*: &nbsp;ICIS 2024 Best Student Paper Winner!
+*2024.12*: &nbsp;**ICIS 2024 Best Student Paper Winner!**
 
 *2024.09*: &nbsp;One ICIS 2024 Paper accepted. One HICSS 2024 Paper accepted.
 
