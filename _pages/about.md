@@ -136,4 +136,6 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - Friends(Ordered by Alphabets)
   - Many of my friends do not use the Internet (
 
-<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=yfhcEFYghS271TtCJcmJ0SjspX_z-s3xU5qVH31QqJk&cl=ffffff&w=a">
+<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=yfhcEFYghS271TtCJcmJ0SjspX_z-s3xU5qVH31QqJk&cl=ffffff&w=a"></script>
+
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=-SQPE35rhRmGuymPJbDr52r7CMNxAHY5zxeCIpgPUQA&cl=ffffff&w=a"></script>
